@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "engines": {
+    "zapret": {
+      "version": "72.13",
+      "tag": "v72.13",
+      "repo": "bol-van/zapret",
+      "asset": "zapret-v72.13.zip",
+      "sha256": "c493e33a0dc4eba23a8686efdaba55f59755ad6ade3564aebd9d13f4c65e2e0c",
+      "files": {
+        "zapret/winws.exe": "a14bff1df6234ea555d2e0c61b589f0707c0b12d6c9b7eeccda76012154996e8"
+      }
+    },
+    "zapret2": {
+      "version": "1.0.7",
+      "tag": "v1.0.7",
+      "repo": "bol-van/zapret2",
+      "asset": "zapret2-v1.0.7.zip",
+      "sha256": "35e14e4e1f345b870c3b87269fa45353efd597241a25304d38375c46b9fd2967",
+      "files": {
+        "zapret/winws2.exe": "9f25492575ff7c3f9e0d6211daac85704c309a0ca695423f0276d9ebde3156aa",
+        "zapret/cygwin1.dll": "103104a52e5293ce418944725df19e2bf81ad9269b9a120d71d39028e821499b",
+        "zapret/WinDivert.dll": "16abd6a029e65557c6a309bea7b13bf81fff4e193567582e1cddbf6719f323e0",
+        "zapret/WinDivert64.sys": "8da085332782708d8767bcace5327a6ec7283c17cfb85e40b03cd2323a90ddc2",
+        "zapret/lua/zapret-antidpi.lua": "6d1fa9168e5de1682fef91fd174f68b58c50f6739ef00f42ca7db2b940b6246d",
+        "zapret/lua/zapret-auto.lua": "23a9b99a776d868d92f4cc0ee5110f5c1f12fe746620d9c0337022dbc2f52df0",
+        "zapret/lua/zapret-lib.lua": "6bf528fef1f0fc3c65e189216fc8a06bb873f6e25d1c29d2bfa4695a09b73440",
+        "zapret/lua/zapret-obfs.lua": "75d91452eae06c672aecebe87d753fa968f939d95452a6103292aed658c533f3",
+        "zapret/lua/zapret-pcap.lua": "6866c37c92fbc62075accf94228da48af618c7f416edc682eba99b2196e05f45",
+        "zapret/lua/zapret-tests.lua": "82664cb50a751a531b63dce094ac03de5045b16b489e726ff32a9a1034811459"
+      }
+    },
+    "goodbyedpi": {
+      "version": "0.2.2",
+      "tag": "0.2.2",
+      "repo": "ValdikSS/GoodbyeDPI",
+      "asset": "goodbyedpi-0.2.2.zip",
+      "sha256": "00a2f8b99cd817f8c7fc4c449033015f039d18af213de78cb66bf202277c0628",
+      "files": {
+        "goodbyedpi/goodbyedpi.exe": "331ac6c1d22ba5a0a217f3f27d0d823051869cafc8b8ef7f2002fa2accebc74e",
+        "goodbyedpi/WinDivert.dll": "a97859785a2df1d4462e7d48d33ccbd89fedd40dac4970f4afd89e63f59ee1ec",
+        "goodbyedpi/WinDivert64.sys": "53ab28ec00be6e6f8aefa9ee76fc2735e94d7f3f9dbc06eb2b7ac8cd3084a6af",
+        "goodbyedpi/russia-blacklist.txt": "9a495e9cb16a4eb9585d3b8bdf22885e6156e9fd9094d0dbd05ade3390c6a2ee"
+      }
+    }
+  },
+  "updated": "2026-11-21"
+}

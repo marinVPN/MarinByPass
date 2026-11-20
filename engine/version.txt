@@ -1,0 +1,1 @@
+zapret=72.13;zapret2=1.0.7;goodbyedpi=0.2.2
